@@ -1,0 +1,242 @@
+{
+	"name": "Streadata.io API Gallery - PDF",
+	"description": "This is a repository of pdf APIs, self-contained as a Github repository, with HTML and YAML representations of the APIs and their surrounding operations.",
+	"image": "http://template.streamdata.gallery/assets/pdf.png",
+	"created": "2018-02-24",
+	"modified": "2018-08-28",
+	"url": "http://pdf.streamdata.gallery/apis.json",
+	"specificationVersion": "0.14",
+	"apis": [
+		{
+			"name": "ConvertAPI",
+			"x-api-slug": "convertapi",
+			"description": "Create PDF easily with our developers API/SDK for Ruby Java .NET C# PHP Shell Delphi.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/357-convertapi.jpg",
+			"humanURL": "http://www.convertapi.com/",
+			"baseURL": "https://do.convertapi.com//",
+			"tags": "PDF",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/pdf/master/_listings/convertapi/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "pdfcrowd",
+			"x-api-slug": "pdfcrowd",
+			"description": "Pdfcrowd is a Web/HTML to  PDF online service. Convert HTML to PDF online in the browser or in your PHP,  Python, Ruby, .NET, Java apps via the REST API.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/453-pdfcrowd.jpg",
+			"humanURL": "http://pdfcrowd.com",
+			"baseURL": "https:///",
+			"tags": "PDF",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/pdf/master/_listings/pdfcrowd/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "DocRaptor",
+			"x-api-slug": "docraptor",
+			"description": "Forget tedious coding or server management: Our simple API that makes it easy to convert HTML to PDF, XLS and Excel files.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/576-docraptor.jpg",
+			"humanURL": "http://docraptor.com",
+			"baseURL": "https:///",
+			"tags": "PDF",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/pdf/master/_listings/docraptor/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Web2PDF",
+			"x-api-slug": "web2pdf",
+			"description": "Create PDF easily with our developers API/SDK for Ruby Java .NET C# PHP Shell Delphi.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/670-web2pdf.jpg",
+			"humanURL": "",
+			"baseURL": "https:///",
+			"tags": "PDF",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/pdf/master/_listings/web2pdf/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "PDFize",
+			"x-api-slug": "pdfize",
+			"description": "Kong is the worlds most popular open source microservice API gateway. Use Kong to secure, manage and orchestrate microservice APIs.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/889-pdfize.jpg",
+			"humanURL": "http://www.mashape.com/apis/PDFize",
+			"baseURL": "https:///",
+			"tags": "PDF",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/pdf/master/_listings/pdfize/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Open Xerox",
+			"x-api-slug": "open-xerox",
+			"description": "Business services, document management and workflow solutions to help businesses and governments work better.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1265-open-xerox.jpg",
+			"humanURL": "http://open.xerox.com",
+			"baseURL": "https:///",
+			"tags": "PDF",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/pdf/master/_listings/open-xerox/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "CORE",
+			"x-api-slug": "core",
+			"description": "The Apache Tika&trade; toolkit detects and extracts metadata and structured text content from various documents using existing parser libraries. You can find the latest release on the download page. See the Getting Started guide for instructions on how to start using Tika. Tika is a project of the Apache Software Foundation, and was formerly a subproject of Apache Lucene.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/apache-tika-logo.png",
+			"humanURL": "http://core.kmi.open.ac.uk/intro/api",
+			"baseURL": "https:///",
+			"tags": "PDF",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/pdf/master/_listings/core/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "PDFUnicorn",
+			"x-api-slug": "pdfunicorn",
+			"description": "PDFUnicorn is a web service for creating PDF files. PDF files can be created directly from source documents, or from data applied to custom templates. The markup language is intentionally simple to allow you to start creating templates and documents as quickly and easily as possible. Document content is securely sent from your server to ours enabling private customer text and images to be included without allowing remote access to your server and content. Document images can be uploaded at print quality resolutions to create the best looking documents possible.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/PDFUnicorn.png",
+			"humanURL": "https://pdfunicorn.com/",
+			"baseURL": "https:///",
+			"tags": "PDF",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/pdf/master/_listings/pdfunicorn/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Actual Reports",
+			"x-api-slug": "actual-reports",
+			"description": "Actual Reports is a versatile document generation platform that is a foundation for multiple segment-specific products that help companies streamline their document generation process. Our line of products enable you to automate your document creation and delivery process, saving you time and money. Our main products are Document Creator for QuickBooks Online, Printout Designer for online retailers, and Document Generation API for developers.",
+			"image": "http://actualreports.com/assets/images/logo/logo.png",
+			"humanURL": "http://actualreports.com/",
+			"baseURL": "https:///",
+			"tags": "PDF",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/pdf/master/_listings/actual-reports/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Dezrez",
+			"x-api-slug": "dezrez",
+			"description": "Cloud based estate agent software , sales & letting agent software, estate agent website design and property management software - Dezrez  Services",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28888-www-dezrez-com.jpg",
+			"humanURL": "https://www.dezrez.com",
+			"baseURL": "https://api.dezrez.com//",
+			"tags": "PDF",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/pdf/master/_listings/dezrez/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Xibo",
+			"x-api-slug": "xibo",
+			"description": "Xibo Digital Signage is a low-cost, high performance solution to launch your business, workplace or organisation into the future. Xibo doesn&rsquo;t just replicate print media, but actively increases engagement allowing you to deliver your message more effectively than ever before.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/xibo-digital-signage-logo.jpeg",
+			"humanURL": "http://www.xibo.org.uk",
+			"baseURL": "https:////api",
+			"tags": "PDF",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/pdf/master/_listings/xibo/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Docsmore",
+			"x-api-slug": "docsmore",
+			"description": "FORM.FILL.SIGN - With Docsmore, the process of setting up a form and sending to users to complete or sign is simplified.  Use our platform to easily upload a document, specify form fields/signage, and send to users for completion.  Present forms to you...",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28946-api-docsmore-com.jpg",
+			"humanURL": "http://api.docsmore.com",
+			"baseURL": "https://api.docsmore.com//",
+			"tags": "PDF",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/pdf/master/_listings/docsmore/openapi.md"
+				}
+			]
+		}
+	],
+	"tags": "PDF",
+	"include": [
+		{
+			"name": "ConvertAPI",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/pdf/master/_listings/convertapi/apis.yaml"
+		},
+		{
+			"name": "pdfcrowd",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/pdf/master/_listings/pdfcrowd/apis.yaml"
+		},
+		{
+			"name": "DocRaptor",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/pdf/master/_listings/docraptor/apis.yaml"
+		},
+		{
+			"name": "Web2PDF",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/pdf/master/_listings/web2pdf/apis.yaml"
+		},
+		{
+			"name": "PDFize",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/pdf/master/_listings/pdfize/apis.yaml"
+		},
+		{
+			"name": "Open Xerox",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/pdf/master/_listings/open-xerox/apis.yaml"
+		},
+		{
+			"name": "CORE",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/pdf/master/_listings/core/apis.yaml"
+		},
+		{
+			"name": "PDFUnicorn",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/pdf/master/_listings/pdfunicorn/apis.yaml"
+		},
+		{
+			"name": "Actual Reports",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/pdf/master/_listings/actual-reports/apis.yaml"
+		},
+		{
+			"name": "Dezrez",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/pdf/master/_listings/dezrez/apis.yaml"
+		},
+		{
+			"name": "Xibo",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/pdf/master/_listings/xibo/apis.yaml"
+		},
+		{
+			"name": "Docsmore",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/pdf/master/_listings/docsmore/apis.yaml"
+		}
+	]
+}
